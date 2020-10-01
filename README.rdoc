@@ -6,18 +6,18 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-- `2.7.0`
+  - `2.7.0`
 
 * Rails version
-- `6.0.1`
+  - `6.0.1`
 
 * Configuration
-- `rvm install 2.7.0` # if using rvm
-- `bundle install`
-- `install postgres db` # one way to install is using brew. (update db username, pwd accordingly)
-- `rails db:setup` # resets the db and runs the commands/scripts in the seeds.rb file
-- `rails s` # start the server
-- `http://localhost:3000` # you will be redirected to the words/index page.
+  - `rvm install 2.7.0` # if using rvm
+  - `bundle install`
+  - `install postgres db` # one way to install is using brew. (update db username, pwd accordingly)
+  - `rails db:setup` # resets the db and runs the commands/scripts in the seeds.rb file
+  - `rails s` # start the server
+  - `http://localhost:3000` # you will be redirected to the words/index page.
 
 * How to run the test suite
-- `bundle exec rspec`
+  - `bundle exec rspec`
