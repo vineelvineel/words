@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  database: words_development
+  username: postgres
+  password:
+  host: localhost
+  port: 5432
+
+test:
+  adapter: postgresql
+  database: words_test
+  username: postgres
+  password:
+  host: localhost
